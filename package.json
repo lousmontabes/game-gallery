@@ -1,5 +1,7 @@
 {
   "name": "game-gallery",
+  "description": "Screenshot gallery",
+  "author": "Lluís Montabes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
